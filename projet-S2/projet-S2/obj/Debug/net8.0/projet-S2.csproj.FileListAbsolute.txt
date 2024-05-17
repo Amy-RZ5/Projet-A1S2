@@ -1,0 +1,14 @@
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/bin/Debug/net8.0/projet-S2
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/bin/Debug/net8.0/projet-S2.deps.json
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/bin/Debug/net8.0/projet-S2.runtimeconfig.json
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/bin/Debug/net8.0/projet-S2.dll
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/bin/Debug/net8.0/projet-S2.pdb
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.AssemblyInfoInputs.cache
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.AssemblyInfo.cs
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.csproj.CoreCompileInputs.cache
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.dll
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/refint/projet-S2.dll
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.pdb
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/projet-S2.genruntimeconfig.cache
+/Users/amyrazafi/RiderProjects/projet-S2/projet-S2/obj/Debug/net8.0/ref/projet-S2.dll
